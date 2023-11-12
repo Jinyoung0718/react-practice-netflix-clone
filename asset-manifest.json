@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-practice-netflix-clone/static/css/main.9d5dee28.css",
+    "main.js": "/react-practice-netflix-clone/static/js/main.c19a5a13.js",
+    "static/js/787.7d8a7a6f.chunk.js": "/react-practice-netflix-clone/static/js/787.7d8a7a6f.chunk.js",
+    "index.html": "/react-practice-netflix-clone/index.html",
+    "main.9d5dee28.css.map": "/react-practice-netflix-clone/static/css/main.9d5dee28.css.map",
+    "main.c19a5a13.js.map": "/react-practice-netflix-clone/static/js/main.c19a5a13.js.map",
+    "787.7d8a7a6f.chunk.js.map": "/react-practice-netflix-clone/static/js/787.7d8a7a6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d5dee28.css",
+    "static/js/main.c19a5a13.js"
+  ]
+}
